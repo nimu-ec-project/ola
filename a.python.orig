@@ -1,0 +1,8 @@
+hello i am learning git
+updating a.python
+i am checking Merging
+<<<<<<< HEAD
+i am learning merge conflicts
+=======
+checking merging conflicts
+>>>>>>> stage
